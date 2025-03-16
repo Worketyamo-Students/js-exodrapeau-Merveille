@@ -34,5 +34,9 @@ else if (pays === "guinee") {
     partie2.style.background = "white";
    
     
-    
-}
+ } else if (pays === "tchad") {
+        partie1.style.background = "blue";
+        partie2.style.background = "yellow";
+        partie3.style.background = "red";
+      
+ }
